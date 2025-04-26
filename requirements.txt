@@ -1,0 +1,15 @@
+streamlit==1.38.0
+pydantic==2.9.1
+chroma-hnswlib==0.7.6
+pysqlite3-binary
+chromadb==0.6.2
+ipykernel
+langchain==0.2.6
+langchain-community==0.2.6
+langchain-core==0.2.38
+pypdf==4.3.1
+pypdf2==3.0.1
+pypdfium2==4.27.0
+deepeval
+ragas
+datasets

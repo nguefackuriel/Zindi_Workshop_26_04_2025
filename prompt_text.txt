@@ -1,0 +1,14 @@
+# Define prompt template
+template =  """You are an assistant for question-answering tasks in the medical domain. \
+Use the following pieces of retrieved context to answer the question. \
+If you don't know the answer, just say that you don't know, do not invent, or ask the user to 
+reformulate his question. \
+
+
+{context}"""
+
+# Some questions
+
+questions = ["what is the duration of the treatment of OLANZAPINE oral?", 
+             "What is the therapeutic of PARACETAMOL = ACETAMINOPHEN oral treatment?",
+            ]
