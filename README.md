@@ -59,6 +59,10 @@ Ensure you have the following installed:
    ```
 A web page will open, now you can start using your Chatbot app and ask any questions related to your document!!!
 
+Example of test.
+
+![alt text](https://github.com/nguefackuriel/Zindi_Workshop_26_04_2025/blob/main/result_test.png?raw=true)
+
 ### Evaluate Your RAG system
 1. Open the my_code.ipynb jupyter notebook
 2. To use deepeval, you will need an OPEN_API_KEY as shown in the notebook, make sure you have one, otherwise it won't work. You can define it directly in the notebook or you can store it in a .env file and load it using load_env as I did in the notebook.
